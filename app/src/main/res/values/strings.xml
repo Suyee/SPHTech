@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SPHTech</string>
+    <string name="empty"></string>
+    <string name="network_error">Please connect wifi or open mobile data and try again.</string>
+    <string name="btn_close">Close</string>
+</resources>
